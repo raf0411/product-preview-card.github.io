@@ -49,6 +49,7 @@ p{
 .right-container .product-title{
   font-family: 'Montserrat', Arial;
   font-weight: 500;
+  font-size: 0.8em;
   letter-spacing: 0.5rem;
   color: var(--dark-grayish-blue);
 }
